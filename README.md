@@ -1,4 +1,4 @@
-# InstructTTSEval
+# 💬 InstructTTSEval
 
 InstructTTSEval is a comprehensive benchmark designed to evaluate Text-to-Speech (TTS) systems' ability to follow complex natural-language style instructions. The dataset provides a hierarchical evaluation framework with three progressively challenging tasks that test both low-level acoustic control and high-level style generalization capabilities.
 
