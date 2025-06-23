@@ -1,4 +1,6 @@
 # 💬 InstructTTSEval
+[![arXiv](https://img.shields.io/badge/arXiv-2506.16381-b31b1b.svg)](https://arxiv.org/abs/2506.16381)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-blue)](https://huggingface.co/datasets/CaasiHUANG/InstructTTSEval)
 
 InstructTTSEval is a comprehensive benchmark designed to evaluate Text-to-Speech (TTS) systems' ability to follow complex natural-language style instructions. The dataset provides a hierarchical evaluation framework with three progressively challenging tasks that test both low-level acoustic control and high-level style generalization capabilities.
 
