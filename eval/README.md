@@ -84,6 +84,7 @@ Run:
 chmod +x run_gemini_eval.sh
 ./run_gemini_eval.sh
 ```
+Note that `eval_prompt.txt` is used both for EN and ZH subsets.
 
 ## Output Format
 

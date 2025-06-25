@@ -6,6 +6,7 @@ InstructTTSEval is a comprehensive benchmark designed to evaluate Text-to-Speech
 
 - Data available at [Huggingface](https://huggingface.co/datasets/CaasiHUANG/InstructTTSEval)
 - Paper: [InstructTTSEval: Benchmarking Complex Natural-Language Instruction Following in Text-to-Speech Systems](https://arxiv.org/pdf/2506.16381)
+- Evaluation script: [`InstructTTSEval/eval`](https://github.com/KexinHUANG19/InstructTTSEval/tree/main/eval)
 
 ## Citation
 Please cite our paper if you find this work useful:
